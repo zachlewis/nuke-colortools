@@ -1,6 +1,6 @@
 name = 'nuke_colourtools'
 
-version='1.0.3'
+version='1.0.4'
 
 authors = ['jed smith']
 
